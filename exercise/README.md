@@ -1,5 +1,6 @@
 # Ejercicios en Python
 
+1. Facil
 - Collatz Sequence Steps
 - Contains Duplicate
 - Factorial Formula
@@ -8,3 +9,7 @@
 - Is Palindrome
 - Roman to Integer
 - Arithmetic Triplets
+
+2. Intermedio
+
+3. Dificil
