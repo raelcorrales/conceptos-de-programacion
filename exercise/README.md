@@ -1,6 +1,6 @@
 # Ejercicios en Python
 
-1. Facil
+**1. Facil**
 - Collatz Sequence Steps
 - Contains Duplicate
 - Factorial Formula
@@ -10,6 +10,6 @@
 - Roman to Integer
 - Arithmetic Triplets
 
-2. Intermedio
+**2. Intermedio**
 
-3. Dificil
+**3. Dificil**
