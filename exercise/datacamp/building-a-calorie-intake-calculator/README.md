@@ -1,5 +1,3 @@
-Sure, here is a README.md for this code:
-
 # Calorie and Nutrition Calculator
 
 This Python code calculates and displays total calories, sugars, fats, and other nutritional values for different foods based on user input. 
@@ -34,7 +32,3 @@ The code will then calculate and display the total nutritional information for t
 
 In this example, the output shows the total calories, fat, protein, carbohydrates, and sugars for 150 grams of croissants, cheese and 250 grams of orange juice.
 
-## Additional Notes
-
-* The code currently assumes that all food names in the user input exactly match the names in the `nutrition_dict`.
-* You can modify the code to handle cases where food names don't match exactly or to provide more user-friendly output.
